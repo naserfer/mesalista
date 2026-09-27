@@ -451,3 +451,4 @@ Se aclaró que es una observación de esa muestra, no una prueba causal ni una p
 - Medir ingresos reales antes de decidir si pagar por tráfico.
 
 No hay aún evidencia de demanda validada, ingresos reales ni rentabilidad.
+
